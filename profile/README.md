@@ -46,7 +46,7 @@ Digital Reef operates as a New Zealand trust with charitable registration underw
 ## Get Involved
 
 -   **Website:** [digitalreef.nz](https://www.digitalreef.nz)
--   **Contact:** Shayne@digitalreef.nz
+-   **Contact:** shayne@digitalreef.nz
 
 We welcome conversations with organisations interested in contributing to or benefiting from shared place-based infrastructure in Aotearoa.
 
