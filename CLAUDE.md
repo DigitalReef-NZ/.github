@@ -13,7 +13,7 @@ Org-wide GitHub configuration and community health files for the DigitalReef-NZ 
 | `profile/README.md` | Rendered as the org landing page at [github.com/DigitalReef-NZ](https://github.com/DigitalReef-NZ). Public-facing narrative (mission, tools, principles). |
 | `README.md` | Rendered at `github.com/DigitalReef-NZ/.github`. Org-config manifest — what this repo holds and why. |
 | `SECURITY.md` | Vulnerability reporting contacts and timelines. |
-| `CODEOWNERS` | Default reviewer routing (currently `@wanacode`). |
+| `CODEOWNERS` | Default reviewer routing (`* @AdventureEd`, verified 2026-09-22; this row said `@wanacode` - Fraser, who has left DR - after the file had already changed). |
 | `LICENSE` | All Rights Reserved. |
 | `CHANGELOG.md` | Keep-a-changelog format, tracks changes to org-wide defaults. |
 | `.gitattributes`, `.gitignore` | Repository hygiene. |
