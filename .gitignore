@@ -12,3 +12,6 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude Code session state, incl. nested session worktrees (reefai#1249)
+.claude/
