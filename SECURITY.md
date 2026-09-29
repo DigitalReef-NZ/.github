@@ -6,10 +6,7 @@ If you discover a security vulnerability in this project, please report it respo
 
 **Do NOT open a public issue.**
 
-Instead, email one of the following contacts:
-
-- **Shayne Galloway** — shayne@digitalreef.nz
-- **Fraser Galloway** — fraser@mediacentral.co.nz
+Instead, email **security@digitalreef.nz**.
 
 ### What to include
 
